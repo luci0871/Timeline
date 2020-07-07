@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.svgInfoBoxContainer {
+  display: none;
+}
+
+.container svg {
+  display: block;
+}
+
+#infoBox,
+use {
+  display: none;
+}
+
+use {
+  width: 100px;
+}
+
+circle.timelinecircle {
+  transition: fill 0.3s ease-in-out;
+}
+
+circle.timelinecircle:hover {
+  fill: darkgray;
+}

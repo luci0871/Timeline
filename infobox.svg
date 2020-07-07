@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="infoBox" class="infoBox" version="1.1" x="0" y="0" viewBox="0 0 840 306" xml:space="preserve">
+	<style type="text/css">
+	.Graphic_x0020_Style{fill:#DFF3FF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st2-info{fill:#DFF3FF;}
+	.st3-info{font-family:'FootlightMTLight';}
+	.st4{font-size:36px;}
+	.st5{fill:#808080;}
+	.st6{font-size:18px;}
+	.st7{fill:#999999;}
+	.st8{fill:#B3B3B3;}
+	.st9{font-family:'Gadugi';}
+	.st10{fill:#FCF6E8;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	</style>
+	<rect x="2" y="2" class="st2-info" width="836" height="302"/>
+	<path d="M836 4v298H4V4H836M840 0H0v306h840V0L840 0z"/>
+	<text transform="matrix(1 0 0 1 213.7803 45.1011)" class="st3-info st4 movieName">Harry Potter and the Prisoner of Azkaban</text>
+	<text transform="matrix(1 0 0 1 213.7803 69.1011)" class="st5 st3-info st6 danishMoviename">Harry Potter og fangen fra Azkaban</text>
+	<text transform="matrix(1 0 0 1 726.7803 79.1011)" class="st7 st3-info st4 releaseYear">2004</text>
+	<text transform="matrix(1 0 0 1 213.7803 118.1011)" class="st8 st9 st6 duration">2h 22min</text>
+	<text transform="matrix(1 0 0 1 213.7803 158.1011)" class="st5 st9 st6 ">Directed by</text>
+	<text transform="matrix(1 0 0 1 213.7803 199.1011)" class="st9 st4 director">Alfonso Cuarón</text>
+	<text transform="matrix(1 0 0 1 213.7803 244.1011)" class="st5 st9 st6 ">Screenplay by</text>
+	<text transform="matrix(1 0 0 1 213.7803 278.1011)" class="st9 st4 screenPlay">Steve Kloves</text>
+	<image style="overflow:visible;" width="683" height="1024" class="poster" href="./images/azkaban.jpg" transform="matrix(0.2686 0 0 0.2686 21 16)">
+	</image>
+</svg>
